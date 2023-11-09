@@ -7,7 +7,7 @@ import numpy as np
 import time
 
 from ._type_check_mix_in import TypeCheckMixIn
-from . import __logger__
+from .. import __logger__
 
 
 from typing import Union

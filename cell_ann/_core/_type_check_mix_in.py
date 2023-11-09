@@ -2,7 +2,7 @@ import inspect
 
 from typing import Any, Dict
 
-from . import __logger__
+from .. import __logger__
 
 
 class TypeCheckMixIn(object):
