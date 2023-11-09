@@ -8,7 +8,7 @@ import numpy as np
 
 # -- import local dependencies: -----------------------------------------------
 from ._type_check_mix_in import TypeCheckMixIn
-from . import __logger__
+from .. import __logger__
 from ._base_knn import BasekNN
 
 from typing import List, Union
